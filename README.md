@@ -7,3 +7,6 @@
   
   2.回滚
   /bin/sh deploy.sh rollback
+
+
+test1
